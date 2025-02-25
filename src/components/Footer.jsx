@@ -4,9 +4,9 @@ import { Link } from "react-router-dom";
 const Footer = () => {
   return (
     <div className="container  py-5">
-      <div className="row align-items-center">
+      <div className="row align-items-center ">
         <div className="col-3 " style={{ height: "100px" }}>
-          <h3 className="text-white text-xl font-semibold ">
+          <h3 className="text-white   ">
             {" "}
             <i className="fa-solid fa-music  me-3 text-info "></i>
             Media-Player

@@ -3,8 +3,8 @@ import './App.css'
 import Content from './pages/Content'
 import Home from './pages/Home'
 import History from './pages/History'
-import Header from './pages/Header'
-import Footer from './pages/Footer'
+import Header from './components/Header'
+import Footer from './components/Footer'
 
 
 function App() {

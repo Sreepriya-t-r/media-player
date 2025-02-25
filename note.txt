@@ -1,0 +1,11 @@
+https://youtu.be/dIUOWdwwZBw?si=rFgeDudcY7yyMsiU
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dIUOWdwwZBw?si=tm9aZdiH9P_xvAXw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+https://youtu.be/ZESMNDEyobk?si=nzFjPqej-xauKb9G
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZESMNDEyobk?si=MfBQtQ1Z_WRAZK2h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+my finding
+iframe url and normal url are same
+Both iFrame and normal URLs use HTTP or HTTPS for communication.

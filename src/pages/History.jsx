@@ -1,9 +1,13 @@
-import React from 'react'
+import React from "react";
+import Historytable from "../components/Historytable";
+
 
 const History = () => {
   return (
-    <div>History</div>
-  )
-}
+    <div>
+< Historytable/>
+    </div>
+  );
+};
 
-export default History
+export default History;
